@@ -77,8 +77,6 @@ How artificial intelligence is reshaping Durham Region’s job market in a posit
 - We use a heatmap to illustrate the unemployment rate for different age categories from 2006 to 2024. 
 - By the persona and graph, we aim to emphasize that the unemployment situation is significant for the youth, particularly new graduates.
 - Chart:
-
-<div class="flourish-embed flourish-heatmap" data-src="visualisation/26384237"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
   
   ![Chart 1](https://github.com/TracieTruong/Visualization-Data-Story/blob/16ff9936ed72e6a7dbdeecad156240bef47bceef/Iterations/Iteration%203.1.png)
   [*Durham Region Unemployment Rates by Age Group*](https://public.flourish.studio/visualisation/26384237/)
