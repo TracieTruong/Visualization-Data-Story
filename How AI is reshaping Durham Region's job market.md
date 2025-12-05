@@ -4,6 +4,11 @@
   <img src="https://img.shields.io/badge/THE%20ESSENCE%20OF%20CHANGE-cf1940?style=for-the-badge&logoWidth=40&labelColor=cf1940&color=cf1940&padding=20" />
 </a>
 
+## Team members:
+1. Vitor H. Messias
+2. Thu Tra Truong
+3. Thu Trang Bach
+
 ## Introduction
 When we started designing this project, we knew from the beginning that we wanted to build an immersive experience.  
 
