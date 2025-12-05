@@ -76,7 +76,10 @@ How artificial intelligence is reshaping Durham Region’s job market in a posit
 - Story/Persona 2: In this scene, we introduce Marcus, a recent university graduate struggling to find a job in his field due to the highly competitive job market. He realizes that knowing AI is a valuable asset for job seekers. In response, he decides to enroll in a master's program in AI to enhance his skills.
 - We use a heatmap to illustrate the unemployment rate for different age categories from 2006 to 2024. 
 - By the persona and graph, we aim to emphasize that the unemployment situation is significant for the youth, particularly new graduates.
-- Chart:  
+- Chart:
+
+<div class="flourish-embed flourish-heatmap" data-src="visualisation/26384237"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
+  
   ![Chart 1](https://github.com/TracieTruong/Visualization-Data-Story/blob/16ff9936ed72e6a7dbdeecad156240bef47bceef/Iterations/Iteration%203.1.png)
   [*Durham Region Unemployment Rates by Age Group*](https://public.flourish.studio/visualisation/26384237/)
 
