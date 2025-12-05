@@ -142,8 +142,11 @@ https://durhamworkforceauthority.ca/wp-content/uploads/2025/11/2025-Data-Walk-Pa
 -	Employment gains and losses in DR: [Durham Region](https://durhamworkforceauthority.ca/dwa-blog/employment-gains-and-losses/#:~:text=Jobs%20First%20Durham%20Data,in%20Durham's%20evolving%20job%20market), [Trend](https://www.jobbank.gc.ca/trend-analysis/job-market-reports/on/job-market-snapshot)
 -	Job future demand: [Forecast](https://services.labour.gov.on.ca/labourmarket/regions.xhtml?lang=en)
 
+## Final Result
+
 <a href="https://tracietruong.github.io/Visualization-Data-Story/" target="_blank">
   <img src="https://img.shields.io/badge/THE%20ESSENCE%20OF%20CHANGE-cf1940?style=for-the-badge&logoWidth=40&labelColor=cf1940&color=cf1940&padding=20" />
 </a>
 
-[Return to my portfolio](https://tracietruong.github.io/Portfolio/)
+
+## [Return to my portfolio](https://tracietruong.github.io/Portfolio/)
